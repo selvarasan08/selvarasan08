@@ -20,6 +20,11 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+scalable+MERN+%2B+Java+applications;JWT+Auth+%7C+RBAC+%7C+REST+APIs+%7C+AWS+Deployment;Top+10+%40+HackIndia+2025+%7C+IEEE+ICAAIC+2025+Presenter" alt="Typing SVG" />
+
+</div>
+
+<br/>
 
 ## 🧑‍💻 About Me
 
@@ -28,7 +33,6 @@ const selvarasan = {
     role: "Full Stack Developer (MERN + Java)",
     education: "B.Tech in AI & Data Science, Muthayammal Engineering College",
     currentFocus: "Building production-grade full stack applications",
-    liveProject: "https://velavanfinance.com  🚀",
     achievements: [
         "🏆 Top 10 - HackIndia Hackathon 2025 (100+ teams)",
         "📄 Research Paper Presenter - IEEE ICAAIC 2025",
@@ -147,4 +151,22 @@ March 2025 – June 2025
 - 🔧 Node Microservice Developer Internship — Zealous Tech Corp
 - ☕ Programming in Java — CGS InfoTech
 
+<br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=selvarasan08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=selvarasan08&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvarasan08&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer"/>
+
+</div>
