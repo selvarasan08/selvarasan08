@@ -2,16 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Selvarasan%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Java&descAlignY=55&descSize=20" width="100%"/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/selvarasan2004/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
+<a href="https://selvarasan-portfoilio.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR-GITHUB" target="_blank">
+<a href="https://github.com/selvarasan08" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/YOUR-LEETCODE" target="_blank">
+<a href="https://leetcode.com/u/selvaKing/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="mailto:selvarasanrajendiran@gmail.com">
@@ -20,11 +20,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+scalable+MERN+%2B+Java+applications;JWT+Auth+%7C+RBAC+%7C+REST+APIs+%7C+AWS+Deployment;Launched+velavanfinance.com+in+Production;Top+10+%40+HackIndia+2025+%7C+IEEE+ICAAIC+2025+Presenter" alt="Typing SVG" />
-
-</div>
-
-<br/>
 
 ## 🧑‍💻 About Me
 
@@ -152,39 +147,4 @@ March 2025 – June 2025
 - 🔧 Node Microservice Developer Internship — Zealous Tech Corp
 - ☕ Programming in Java — CGS InfoTech
 
-<br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB/YOUR-GITHUB/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📫 Let's Connect
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:selvarasanrajendiran@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hello-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB&style=flat-square&color=6a11cb" alt="profile views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer"/>
-
-</div>
